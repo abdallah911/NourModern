@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "nourmodern",
+      "runtimeExecutable": "dotnet",
+      "runtimeArgs": ["run", "--project", "NourModern", "--launch-profile", "http"],
+      "port": 5071
+    }
+  ]
+}
