@@ -24,7 +24,7 @@ namespace NourModern.Controllers
         {
             try
             {
-                string to = "norhamdy2007@gmail.com"; // Replace with recipient email address
+                string to = "norhamdy998@gmail.com"; // Replace with recipient email address
                 string subject = "طلب تقديم ";
 
                 // Compose email message
